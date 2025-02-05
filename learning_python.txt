@@ -1,0 +1,3 @@
+In python you can create lists and dictionaries that store objects.
+In python you can create loops that will repeat an action.
+In python you can create functions that will perform tasks when called.
