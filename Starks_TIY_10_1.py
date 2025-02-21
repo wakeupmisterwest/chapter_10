@@ -10,4 +10,4 @@ py_string = ''
 for line in lines:
     py_string += line.rstrip()
 
-print(f"py_string")
+print(py_string)
